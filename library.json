@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gy-2561-tsl2561-gy-2561-tsl2561",
+  "title": "gy-2561-tsl2561-gy-2561-tsl2561",
+  "keywords": "gy-2561-tsl2561-gy-2561-tsl2561, esp32, esp8266, arduino",
+  "description": "gy-2561-tsl2561-gy-2561-tsl2561 plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy-2561-tsl2561-gy-2561-tsl2561/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy-2561-tsl2561-gy-2561-tsl2561/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
